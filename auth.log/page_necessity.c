@@ -21,13 +21,13 @@ void research_form ()
 
 
 
-void number_button_form (int d) 
+/*void number_button_form (int d) 
 {
 	printf("\t\t\t\t<td>\n"
 		   "\t\t\t\t\t<form action = /cgi-bin/ method = get> <input type = hidden name = page value = %d> <input type =  submit value =%d> </form>\n"
      	   "\t\t\t\t</td>\n");
 }
-
+*/
 
 void one_line_form (char* user, char* session, char* date) 
 {
